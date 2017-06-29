@@ -1,0 +1,1 @@
+var dailyWatcherETFListData ={"list": [{"code": "DAILY_20170629", "label": "DAILY_20170629", "list": []}]};
