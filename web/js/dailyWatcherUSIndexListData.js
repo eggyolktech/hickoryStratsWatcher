@@ -1,2 +1,2 @@
-//2017-06-30 17:48:36.612334
-var dailyWatcherUSIndexListData ={"list": [{"label": "DAILY_USIndexList_170630", "list": [{"label": "$200.53m]", "code": "SHPG.US"}, {"label": "$622.44m]", "code": "HD.US"}, {"label": "$101.76m]", "code": "LBTYK.US"}, {"label": "$85.58m]", "code": "SRCL.US"}, {"label": "$121.04m]", "code": "NTAP.US"}, {"label": "$86.45m]", "code": "LBTYA.US"}], "code": "DAILY_USIndexList_170630"}]};
+//2017-06-30 17:56:26.740039
+var dailyWatcherUSIndexListData ={"list": [{"code": "DAILY_USIndexList_170630", "list": [{"code": "LBTYA.US", "label": ["[S7,", "M8,", "$86.45m]"]}, {"code": "NTAP.US", "label": ["[S8,", "M7,", "$121.04m]"]}, {"code": "LBTYK.US", "label": ["[S7,", "M11,", "$101.76m]"]}, {"code": "SHPG.US", "label": ["[S10,", "M8,", "$200.53m]"]}, {"code": "HD.US", "label": ["[S17,", "M15,", "$622.44m]"]}, {"code": "SRCL.US", "label": ["[S7,", "M2,", "$85.58m]"]}], "label": "DAILY_USIndexList_170630"}]};
