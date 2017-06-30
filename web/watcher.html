@@ -1,4 +1,5 @@
-CTYPE html>
+
+<!DOCTYPE html>
 <html>
 <head>
   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -8,11 +9,11 @@ CTYPE html>
   
   <script src="./js/common.js"></script>
   <script src="./js/data.js"></script>
-  <script src="./js/dailyWatcherIndexListData.js"></script>
-  <script src="./js/weeklyWatcherIndexListData.js"></script>
-  <script src="./js/dailyWatcherUSIndexListData.js"></script>
-  <script src="./js/weeklyWatcherUSIndexListData.js"></script>
-
+  
+  <script type="text/javascript" src="https://cdn.rawgit.com/eggyolktech/hickoryStratsWatcher/c4cff11d/web/js/dailyWatcherETFListData.js"></script>
+  <script type="text/javascript" src="https://cdn.rawgit.com/eggyolktech/hickoryStratsWatcher/c4cff11d/web/js/dailyWatcherIndexListData.js"></script>
+  <script type="text/javascript" src="https://cdn.rawgit.com/eggyolktech/hickoryStratsWatcher/c4cff11d/web/js/dailyWatcherUSIndexListData.js"></script>
+  
   <style type="text/css">
   
     body {  
@@ -32,6 +33,7 @@ CTYPE html>
     /* visited link */
     a:visited {
         color: green;
+        
     }
 
     /* mouse over link */
@@ -74,7 +76,7 @@ var period = "&period=" + 6;
 var id = "&stockid=";
 var DEFAULT_CODE = "110000";
 
-http://charts.aastocks.com/servlet/Charts?com=100&logoStyle=1&chartwidth=672&chartheight=689&scheme=1&stockid=SUN.US&period=46&type=1&fontsize=12&Indicator=1&indpara1=10&indpara2=20&indpara3=50&indpara4=100&indpara5=150&subChart1=2&ref1para1=14&ref1para2=&ref1para3=&subChart2=3&ref2para1=12&ref2para2=26&ref2para3=9&subChart3=12&ref3para1=&ref3para2=&ref3para3=&subChart4=0&ref4para1=&ref4para2=&ref4para3=&subChart5=0&ref5para1=&ref5para2=&ref5para3=&chiname=T&titlestyle=1&15MinDelay=T
+//http://charts.aastocks.com/servlet/Charts?com=100&logoStyle=1&chartwidth=672&chartheight=689&scheme=1&stockid=SUN.US&period=46&type=1&fontsize=12&Indicator=1&indpara1=10&indpara2=20&indpara3=50&indpara4=100&indpara5=150&subChart1=2&ref1para1=14&ref1para2=&ref1para3=&subChart2=3&ref2para1=12&ref2para2=26&ref2para3=9&subChart3=12&ref3para1=&ref3para2=&ref3para3=&subChart4=0&ref4para1=&ref4para2=&ref4para3=&subChart5=0&ref5para1=&ref5para2=&ref5para3=&chiname=T&titlestyle=1&15MinDelay=T
 
 var url = main + indicator + subchart + scheme + period + id
 var url_ind = main + indicator + subchart + subchart_coldfeet + scheme_single + period + id
@@ -199,6 +201,18 @@ function displaySearchResult(list, searchLabel) {
     }); 
 }
 
+function getWatchListDataMap(data) {
+
+    //alert("yes")
+
+    // if data variable is not defined, return empty map array
+    if (typeof $(data) == "undefined") return [];
+    
+    return $.map(data.list, function (item, i) {
+        return $('<option>', { text: item.label, value: item.code });
+    });
+}
+
 //////// Main JS Function
 $(window).load(function(){
 
@@ -238,87 +252,78 @@ $(window).load(function(){
     });
     
     //////// HK WatchList Dropdown List
-    optionsHKWeekly = $.map(weeklyWatcherIndexListData.list, function (item, i) {
-        return $('<option>', { text: item.label, value: item.code });
-    });
-
-    optionsHKDaily = $.map(dailyWatcherIndexListData.list, function (item, i) {
-        return $('<option>', { text: item.label, value: item.code });
-    });        
-    
     $("#drpStockGroup").empty()
         .append($('<option>', { text: "HK WATCHLIST", value: "" }))
-        .append($('<option>', { text: "-------- WEEKLY --------", value: "" }))
-        .append(optionsHKWeekly)
         .append($('<option>', { text: "-------- DAILY --------", value: "" }))
-        .append(optionsHKDaily)
+        .append(getWatchListDataMap(dailyWatcherIndexListData))
+        .append(getWatchListDataMap(dailyWatcherETFListData))
+        .append($('<option>', { text: "-------- WEEKLY --------", value: "" }))        
         
     $(document).on('change','#drpStockGroup' ,function(){
         
         var code = this.value;
+        var watcherList = [];
+        var filteredList = null;
         
         if (code == "") {
             // Nill case
-        } else if (code.startsWith("D")) {        
-            //////// Generate Daily Watch Lisy
-            var filteredList = $(dailyWatcherIndexListData.list).filter(function( idx ) {
-                return dailyWatcherIndexListData.list[idx].code == code;
-            }); 
-            
-            ///////// Create Daily Sub Dropdown List
-            createDropdownMenu("drpStockGroupSub", filteredList[0], CAPTION_SELECT, "drpStockGroup", true);
-            
+            return;
+        } else if (code.startsWith("D")) {    
+            watcherList = [dailyWatcherIndexListData.list, dailyWatcherETFListData.list];
         } else if (code.startsWith("W")) {        
-            //////// Generate Daily Watch List
-            var filteredList = $(weeklyWatcherIndexListData.list).filter(function( idx ) {
-                return weeklyWatcherIndexListData.list[idx].code == code;
+            watcherList = [];
+        }  
+        
+        $.each(watcherList, function(key, watcherSubList) {
+            // Generate Watch List
+            filteredList = $(watcherSubList).filter(function( idx ) {
+                //alert(watcherSubList[idx].code + " == " + code);
+                return watcherSubList[idx].code == code;
             }); 
             
-            ///////// Create Daily Sub Dropdown List
-            createDropdownMenu("drpStockGroupSub", filteredList[0], CAPTION_SELECT, "drpStockGroup", true);            
-        }  
+            // Search Result Found
+            if (filteredList[0]) return false;
+        });
+        
+        ///////// Create Sub Dropdown List
+        createDropdownMenu("drpStockGroupSub", filteredList[0], CAPTION_SELECT, "drpStockGroup", true);
     });
     
     //////// US IWatchList List
-    optionsUSWeekly = $.map(weeklyWatcherUSIndexListData.list, function (item, i) {
-        return $('<option>', { text: item.label, value: item.code });
-    });
-
-    optionsUSDaily = $.map(dailyWatcherUSIndexListData.list, function (item, i) {
-        return $('<option>', { text: item.label, value: item.code });
-    });      
-    
     $("#drpUSStockGroup").empty()
         .append($('<option>', { text: "US WATCHLIST", value: "" }))
-        .append($('<option>', { text: "-------- WEEKLY --------", value: "" }))
-        .append(optionsUSWeekly)
         .append($('<option>', { text: "-------- DAILY --------", value: "" }))
-        .append(optionsUSDaily)
+        .append(getWatchListDataMap(dailyWatcherUSIndexListData))
+        .append($('<option>', { text: "-------- WEEKLY --------", value: "" }))
     
     $(document).on('change','#drpUSStockGroup' ,function(){
         
         var code = this.value;
+        var watcherList = [];
+        var filteredList = null;
         
         if (code == "") {
             // Nill case
+            return;
         } else if (code.startsWith("D")) {        
-            //////// Generate Daily Watch Lisy
-            var filteredList = $(dailyWatcherUSIndexListData.list).filter(function( idx ) {
-                return dailyWatcherUSIndexListData.list[idx].code == code;
-            }); 
-            
-            ///////// Create Daily Sub Dropdown List
-            createDropdownMenu("drpUSStockGroupSub", filteredList[0], CAPTION_SELECT, "drpUSStockGroup", true);
-            
+            watcherList = [dailyWatcherUSIndexListData.list];
         } else if (code.startsWith("W")) {        
-            //////// Generate Daily Watch List
-            var filteredList = $(weeklyWatcherUSIndexListData.list).filter(function( idx ) {
-                return weeklyWatcherUSIndexListData.list[idx].code == code;
+            watcherList = [];
+        }  
+        
+        $.each(watcherList, function(key, watcherSubList) {
+            // Generate Watch List
+            filteredList = $(watcherSubList).filter(function( idx ) {
+                return watcherSubList[idx].code == code;
             }); 
             
-            ///////// Create Daily Sub Dropdown List
-            createDropdownMenu("drpUSStockGroupSub", filteredList[0], CAPTION_SELECT, "drpUSStockGroup", true);            
-        }  
+            // Search Result Found
+            if (filteredList[0]) return false;
+        });               
+
+        ///////// Create Sub Dropdown List
+        createDropdownMenu("drpUSStockGroupSub", filteredList[0], CAPTION_SELECT, "drpUSStockGroup", true);    
+        
     });    
     
     //////// Time Frame Toggle (for ALL Case)
@@ -376,7 +381,7 @@ $(window).load(function(){
 
 <body>
     <div id="top"></div>
-    <div id="backtotop"><a href="#top">Top</a></div>
+    <div id="backtotop"><a href="#top"><b>Top</b></a></div>
     <table>
         <tr>
             <td>
@@ -401,6 +406,3 @@ $(window).load(function(){
 </body>
 
 </html>
-
-
-
