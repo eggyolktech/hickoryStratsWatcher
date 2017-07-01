@@ -10,10 +10,22 @@
   <script src="./js/common.js"></script>
   <script src="./js/data.js"></script>
   
-  <script type="text/javascript" src="https://cdn.rawgit.com/eggyolktech/hickoryStratsWatcher/c4cff11d/web/js/dailyWatcherETFListData.js"></script>
-  <script type="text/javascript" src="https://cdn.rawgit.com/eggyolktech/hickoryStratsWatcher/c4cff11d/web/js/dailyWatcherIndexListData.js"></script>
-  <script type="text/javascript" src="https://cdn.rawgit.com/eggyolktech/hickoryStratsWatcher/c4cff11d/web/js/dailyWatcherUSIndexListData.js"></script>
-  
+  <!-- HK List -->
+  <script type="text/javascript" src=" https://rawgit.com/eggyolktech/hickoryStratsWatcher/master/web/js/dailyWatcherETFListData.js"></script>
+  <script type="text/javascript" src=" https://rawgit.com/eggyolktech/hickoryStratsWatcher/master/web/js/dailyWatcherIndexListData.js"></script>
+  <script type="text/javascript" src=" https://rawgit.com/eggyolktech/hickoryStratsWatcher/master/web/js/dailyWatcherIndustryListData.js"></script>
+  <script type="text/javascript" src=" https://rawgit.com/eggyolktech/hickoryStratsWatcher/master/web/js/weeklyWatcherETFListData.js"></script>  
+  <script type="text/javascript" src=" https://rawgit.com/eggyolktech/hickoryStratsWatcher/master/web/js/weeklyWatcherIndexListData.js"></script>  
+  <script type="text/javascript" src=" https://rawgit.com/eggyolktech/hickoryStratsWatcher/master/web/js/weeklyWatcherIndustryListData.js"></script>  
+
+  <!-- US List -->
+  <script type="text/javascript" src=" https://rawgit.com/eggyolktech/hickoryStratsWatcher/master/web/js/dailyWatcherUSIndexListData.js"></script>
+  <script type="text/javascript" src=" https://rawgit.com/eggyolktech/hickoryStratsWatcher/master/web/js/dailyWatcherUSETFListData.js"></script>
+  <script type="text/javascript" src=" https://rawgit.com/eggyolktech/hickoryStratsWatcher/master/web/js/dailyWatcherUSIndustryListData.js"></script>  
+  <script type="text/javascript" src=" https://rawgit.com/eggyolktech/hickoryStratsWatcher/master/web/js/weeklyWatcherUSETFListData.js"></script>  
+  <script type="text/javascript" src=" https://rawgit.com/eggyolktech/hickoryStratsWatcher/master/web/js/weeklyWatcherUSIndexListData.js"></script>  
+  <script type="text/javascript" src=" https://rawgit.com/eggyolktech/hickoryStratsWatcher/master/web/js/weeklyWatcherUSIndustryListData.js"></script>  
+    
   <style type="text/css">
   
     body {  
@@ -58,7 +70,7 @@
     
   </style>
 
-  <title>Aastocks Lite</title>
+  <title>GWC Watcher Lite</title>
 
 
 <script type='text/javascript'>//<![CDATA[
@@ -256,8 +268,12 @@ $(window).load(function(){
         .append($('<option>', { text: "HK WATCHLIST", value: "" }))
         .append($('<option>', { text: "-------- DAILY --------", value: "" }))
         .append(getWatchListDataMap(dailyWatcherIndexListData))
+        .append(getWatchListDataMap(dailyWatcherIndustryListData))
         .append(getWatchListDataMap(dailyWatcherETFListData))
         .append($('<option>', { text: "-------- WEEKLY --------", value: "" }))        
+        .append(getWatchListDataMap(weeklyWatcherIndexListData))
+        .append(getWatchListDataMap(weeklyWatcherIndustryListData))
+        .append(getWatchListDataMap(weeklyWatcherETFListData));
         
     $(document).on('change','#drpStockGroup' ,function(){
         
@@ -269,9 +285,9 @@ $(window).load(function(){
             // Nill case
             return;
         } else if (code.startsWith("D")) {    
-            watcherList = [dailyWatcherIndexListData.list, dailyWatcherETFListData.list];
+            watcherList = [dailyWatcherIndexListData.list, dailyWatcherIndustryListData.list, dailyWatcherETFListData.list];
         } else if (code.startsWith("W")) {        
-            watcherList = [];
+            watcherList = [weeklyWatcherIndexListData.list, weeklyWatcherIndustryListData.list, weeklyWatcherETFListData.list];
         }  
         
         $.each(watcherList, function(key, watcherSubList) {
@@ -294,8 +310,13 @@ $(window).load(function(){
         .append($('<option>', { text: "US WATCHLIST", value: "" }))
         .append($('<option>', { text: "-------- DAILY --------", value: "" }))
         .append(getWatchListDataMap(dailyWatcherUSIndexListData))
-        .append($('<option>', { text: "-------- WEEKLY --------", value: "" }))
-    
+        .append(getWatchListDataMap(dailyWatcherUSIndustryListData))
+        .append(getWatchListDataMap(dailyWatcherUSETFListData))
+        .append($('<option>', { text: "-------- WEEKLY --------", value: "" }))        
+        .append(getWatchListDataMap(weeklyWatcherUSIndexListData))
+        .append(getWatchListDataMap(weeklyWatcherUSIndustryListData))
+        .append(getWatchListDataMap(weeklyWatcherUSETFListData));
+        
     $(document).on('change','#drpUSStockGroup' ,function(){
         
         var code = this.value;
@@ -306,9 +327,9 @@ $(window).load(function(){
             // Nill case
             return;
         } else if (code.startsWith("D")) {        
-            watcherList = [dailyWatcherUSIndexListData.list];
+            watcherList = [dailyWatcherUSIndexListData.list, dailyWatcherUSIndustryListData.list, dailyWatcherUSETFListData.list];
         } else if (code.startsWith("W")) {        
-            watcherList = [];
+            watcherList = [weeklyWatcherUSIndexListData.list, weeklyWatcherUSIndustryListData.list, weeklyWatcherUSETFListData.list];
         }  
         
         $.each(watcherList, function(key, watcherSubList) {
