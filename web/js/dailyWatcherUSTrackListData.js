@@ -1,0 +1,2 @@
+//2017-07-03 23:39:41.242182
+var dailyWatcherUSTrackListData ={"list": [{"label": "DAILY_USTrackList_170703_2", "list": [{"label": "GOOG.US", "code": "GOOG"}, {"label": "BABA.US", "code": "BABA"}], "code": "DAILY_USTrackList_170703"}]};
