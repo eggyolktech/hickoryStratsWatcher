@@ -204,7 +204,7 @@ function createDropdownMenu(drpId, drpData, drpDesc, drpToSkipReset, showCode ) 
             // Double Click Chart goes to single detail page
             $('img[id^="chart"]').dblclick(function() {
                 var sCode = $(this).attr("src").split("=").pop();
-                displaySingleChart(sCode);
+                window.open(window.location.href.split('?')[0] + "?code=" + sCode, "PopupWindow");
             });
   
         } else {
@@ -244,6 +244,16 @@ function getWatchListDataMap(data) {
     });
 }
 
+$.urlParam = function(name){
+    var results = new RegExp('[\?&]' + name + '=([^]*)').exec(window.location.href);
+    if (results==null){
+       return null;
+    }
+    else{
+       return results[1] || 0;
+    }
+}
+
 //////// Main JS Function
 $(window).load(function(){
 
@@ -252,6 +262,14 @@ $(window).load(function(){
     
     //alert(typeof $("dailyUS" + "WatchListData") == "undefined")
     //alert(typeof dailyUSWatchListData12 != "undefined")
+    
+    if ($.urlParam('code')) {
+    
+        // List Individual cases
+        displaySingleChart($.urlParam('code'));
+        $("#searchDiv").empty();
+        $("#inputCode").select();    
+    } 
     
     $(document).keypress(function(e) {
         
