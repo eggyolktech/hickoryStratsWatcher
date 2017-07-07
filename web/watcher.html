@@ -204,7 +204,7 @@ function createDropdownMenu(drpId, drpData, drpDesc, drpToSkipReset, showCode ) 
             // Double Click Chart goes to single detail page
             $('img[id^="chart"]').dblclick(function() {
                 var sCode = $(this).attr("src").split("=").pop();
-                window.open(window.location.href.split('?')[0] + "?code=" + sCode, "PopupWindow");
+                window.open(window.location.href.split('?')[0] + "?code=" + sCode, "PopupWindow" + sCode);
             });
   
         } else {
