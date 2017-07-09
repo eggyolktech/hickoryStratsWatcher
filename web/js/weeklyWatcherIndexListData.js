@@ -1,2 +1,2 @@
-//2017-07-09 00:56:49.228126
-var weeklyWatcherIndexListData ={"list": [{"code": "WEEKLY_IndexList_170709", "list": [{"code": "0751", "label": "W [S9, M16, $51.65m]"}, {"code": "1333", "label": "W [S9, M16, $21.06m]"}, {"code": "1668", "label": "W [S16, M2, $61.86m]"}, {"code": "3958", "label": "W [S16, M16, $15.24m]"}, {"code": "1044", "label": "W [S9, M9, $192.07m]"}], "label": "WEEKLY_IndexList_170709_5"}]};
+//2017-07-10 01:17:06.633821
+var weeklyWatcherIndexListData ={"list": [{"list": [{"label": "W [S10, M17, $51.65m]", "code": "0751"}, {"label": "W [S17, M17, $15.24m]", "code": "3958"}, {"label": "W [S17, M3, $61.86m]", "code": "1668"}, {"label": "W [S10, M10, $192.07m]", "code": "1044"}, {"label": "W [S10, M17, $21.06m]", "code": "1333"}], "label": "WEEKLY_IndexList_170710_5", "code": "WEEKLY_IndexList_170710"}]};
