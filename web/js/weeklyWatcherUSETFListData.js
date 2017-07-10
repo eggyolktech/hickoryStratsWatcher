@@ -1,2 +1,2 @@
-//2017-07-10 01:38:36.164025
-var weeklyWatcherUSETFListData ={"list": [{"list": [{"label": "W [S10, M10, $14.57m]", "code": "EUM.US"}, {"label": "W [S3, M10, $23.25m]", "code": "VIXY.US"}], "label": "WEEKLY_USETFList_170710_2", "code": "WEEKLY_USETFList_170710"}]};
+//2017-07-11 00:03:51.982614
+var weeklyWatcherUSETFListData ={"list": [{"list": [{"code": "EUM.US", "label": "W [S11, M11, $14.60m]"}], "code": "WEEKLY_USETFList_170711", "label": "WEEKLY_USETFList_170711_1"}]};

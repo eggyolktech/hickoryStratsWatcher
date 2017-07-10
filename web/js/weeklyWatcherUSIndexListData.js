@@ -1,2 +1,2 @@
-//2017-07-10 01:23:21.144578
-var weeklyWatcherUSIndexListData ={"list": [{"list": [{"label": "W [S10, M17, $631.30m]", "code": "BIIB.US"}, {"label": "W [S17, M17, $328.68m]", "code": "ESRX.US"}], "label": "WEEKLY_USIndexList_170710_2", "code": "WEEKLY_USIndexList_170710"}]};
+//2017-07-10 23:47:07.667193
+var weeklyWatcherUSIndexListData ={"list": [{"list": [{"code": "ESRX.US", "label": "W [S17, M17, $330.83m]"}, {"code": "BIIB.US", "label": "W [S10, M17, $634.92m]"}], "code": "WEEKLY_USIndexList_170710", "label": "WEEKLY_USIndexList_170710_2"}]};
