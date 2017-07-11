@@ -1,2 +1,2 @@
-//2017-07-11 01:05:02.509145
-var dailyWatcherTrackListData ={"list": [{"label": "DAILY_TrackList_170711_3", "code": "DAILY_TrackList_170711", "list": [{"label": "700.HK", "code": "700"}, {"label": "3993.HK", "code": "3993"}, {"label": "368.HK", "code": "368"}]}]};
+//2017-07-12 00:55:52.866479
+var dailyWatcherTrackListData ={"list": [{"label": "DAILY_TrackList_170712_3", "code": "DAILY_TrackList_170712", "list": [{"label": "3993.HK", "code": "3993"}, {"label": "700.HK", "code": "700"}, {"label": "368.HK", "code": "368"}]}]};
