@@ -1,2 +1,2 @@
-//2017-06-30 19:21:01.059106
-var dailyWatcherETFListData ={"list": [{"label": "DAILY_ETFList_170630", "code": "DAILY_ETFList_170630", "list": []}]};
+//2017-07-22 00:34:33.828711
+var dailyWatcherETFListData ={"list": [{"code": "DAILY_ETFList_170722", "list": [{"code": "2840", "label": "D [S9, M4, $16.11m, 2.3724]"}], "label": "DAILY_ETFList_170722_1"}]};
