@@ -1,2 +1,2 @@
-//2017-07-31 00:53:01.496447
-var weeklyWatcherUSIndexListData ={"list": [{"label": "WEEKLY_USIndexList_170731_6", "list": [{"label": "W [S10, M10, $267.20m, 0.1899]", "code": "M.US"}, {"label": "W [S10, M10, $80.23m, 1.1799]", "code": "SNI.US"}, {"label": "W [S17, M10, $461.52m, 0.0977]", "code": "KMI.US"}, {"label": "W [S17, M17, $187.48m, 0.0586]", "code": "SWN.US"}, {"label": "W [S17, M10, $143.61m, 0.1483]", "code": "LBTYK.US"}, {"label": "W [S17, M3, $370.40m, 0.2574]", "code": "EOG.US"}], "code": "WEEKLY_USIndexList_170731"}]};
+//2017-08-06 01:01:10.928915
+var weeklyWatcherUSIndexListData ={"list": [{"list": [{"code": "GIS.US", "label": "W [S2, M2, $191.91m, 0.0689]"}, {"code": "M.US", "label": "W [S16, M16, $267.56m, 0.2583]"}, {"code": "HES.US", "label": "W [S9, M2, $227.41m, 0.0787]"}, {"code": "SNI.US", "label": "W [S16, M16, $83.31m, 1.8089]"}], "code": "WEEKLY_USIndexList_170806", "label": "WEEKLY_USIndexList_170806_4"}]};
