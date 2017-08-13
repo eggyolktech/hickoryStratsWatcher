@@ -1,2 +1,2 @@
-//2017-08-13 00:48:26.040839
-var weeklyWatcherUSIndexListData ={"list": [{"code": "WEEKLY_USIndexList_170813", "list": [{"code": "TAP.US", "label": "W [S2, M2, $159.37m, 0.1785]"}, {"code": "GIS.US", "label": "W [S9, M9, $192.55m, 0.1950]"}], "label": "WEEKLY_USIndexList_170813_2"}]};
+//2017-08-14 00:46:42.284207
+var weeklyWatcherUSIndexListData ={"list": [{"code": "WEEKLY_USIndexList_170814", "label": "WEEKLY_USIndexList_170814_2", "list": [{"code": "TAP.US", "label": "W [S3, M3, $159.37m, 0.1785]"}, {"code": "GIS.US", "label": "W [S10, M10, $192.55m, 0.1950]"}]}]};
