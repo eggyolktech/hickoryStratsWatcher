@@ -1,2 +1,2 @@
-//2017-08-14 01:00:16.912294
-var weeklyWatcherUSETFListData ={"list": [{"code": "WEEKLY_USETFList_170814", "label": "WEEKLY_USETFList_170814_5", "list": [{"code": "UWT.US", "label": "W [S17, M17, $88.12m, 0.3473]"}, {"code": "USO.US", "label": "W [S17, M17, $353.30m, 0.0777]"}, {"code": "USLV.US", "label": "W [S3, M3, $17.19m, 0.0293]"}, {"code": "OIL.US", "label": "W [S17, M17, $22.07m, 0.0481]"}, {"code": "NANR.US", "label": "W [S17, M17, $10.11m, 0.1203]"}]}]};
+//2017-08-20 22:01:52.441126
+var weeklyWatcherUSETFListData ={"list": [{"label": "WEEKLY_USETFList_170820_2", "list": [{"label": "D [S13, M10, $66.75m, 0.4290]", "code": "SCO.US"}, {"label": "D [S18, M13, $40.88m, 0.0374]", "code": "UUP.US"}], "code": "WEEKLY_USETFList_170820"}]};
