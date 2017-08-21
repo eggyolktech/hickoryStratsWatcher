@@ -1,2 +1,2 @@
-//2017-08-18 00:56:07.950365
-var dailyWatcherUSETFListData ={"list": [{"label": "DAILY_USETFList_170818_3", "code": "DAILY_USETFList_170818", "list": [{"label": "D [S18, M16, $96.67m, 0.0610]", "code": "SPXU.US"}, {"label": "D [S8, M7, $11.74m, 0.0153]", "code": "DOG.US"}, {"label": "D [S18, M16, $86.39m, 0.0452]", "code": "SH.US"}]}]};
+//2017-08-22 01:06:19.682296
+var dailyWatcherUSETFListData ={"list": [{"list": [{"label": "D [S18, M14, $7.90m, 0.0700]", "code": "EUO.US"}, {"label": "D [S15, M12, $66.64m, 0.4099]", "code": "SCO.US"}, {"label": "D [S12, M11, $11.78m, 0.0403]", "code": "DOG.US"}, {"label": "D [S18, M8, $9.25m, 0.0317]", "code": "HEWG.US"}, {"label": "D [S14, M12, $69.93m, 0.4612]", "code": "DWT.US"}, {"label": "D [S19, M19, $4.70m, 0.1896]", "code": "VXZ.US"}], "label": "DAILY_USETFList_170822_6", "code": "DAILY_USETFList_170822"}]};
