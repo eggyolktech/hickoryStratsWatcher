@@ -1,2 +1,2 @@
-//2017-08-20 22:01:52.441126
-var weeklyWatcherUSETFListData ={"list": [{"label": "WEEKLY_USETFList_170820_2", "list": [{"label": "D [S13, M10, $66.75m, 0.4290]", "code": "SCO.US"}, {"label": "D [S18, M13, $40.88m, 0.0374]", "code": "UUP.US"}], "code": "WEEKLY_USETFList_170820"}]};
+//2017-08-27 01:04:28.745857
+var weeklyWatcherUSETFListData ={"list": [{"code": "WEEKLY_USETFList_170827", "label": "WEEKLY_USETFList_170827_3", "list": [{"code": "USLV.US", "label": "W [S16, M16, $17.48m, 0.1671]"}, {"code": "TDTT.US", "label": "W [S16, M2, $3.64m, 0.0006]"}, {"code": "BIS.US", "label": "W [S2, M9, $12.11m, 0.1240]"}]}]};
