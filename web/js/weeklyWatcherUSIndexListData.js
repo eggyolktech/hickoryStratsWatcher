@@ -1,2 +1,2 @@
-//2017-08-27 16:41:32.409375
-var weeklyWatcherUSIndexListData ={"list": [{"code": "WEEKLY_USIndexList_170827", "list": [{"code": "ROST.US", "label": "W [S9, M2, $176.09m, 0.0361]"}], "label": "WEEKLY_USIndexList_170827_1"}]};
+//2017-09-03 00:55:04.898564
+var weeklyWatcherUSIndexListData ={"list": [{"code": "WEEKLY_USIndexList_170903", "list": [{"code": "TJX.US", "label": "W [S9, M2, $254.31m, 0.0762]"}], "label": "WEEKLY_USIndexList_170903_1"}]};
