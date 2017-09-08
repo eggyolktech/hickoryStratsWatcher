@@ -1,2 +1,2 @@
-//2017-09-07 01:09:27.901046
-var dailyWatcherUSETFListData ={"list": [{"label": "DAILY_USETFList_170907_1", "list": [{"label": "D [S10, M2, $8.51m, 0.0052]", "code": "FTSL.US"}], "code": "DAILY_USETFList_170907"}]};
+//2017-09-09 01:05:14.375544
+var dailyWatcherUSETFListData ={"list": [{"list": [{"label": "<b>D [S8, M1, $110.82m, 0.0520]</b>", "code": "DGAZ.US"}], "label": "DAILY_USETFList_170909_1", "code": "DAILY_USETFList_170909"}]};
