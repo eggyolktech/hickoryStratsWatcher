@@ -1,2 +1,2 @@
-//2017-09-03 00:55:04.898564
-var weeklyWatcherUSIndexListData ={"list": [{"code": "WEEKLY_USIndexList_170903", "list": [{"code": "TJX.US", "label": "W [S9, M2, $254.31m, 0.0762]"}], "label": "WEEKLY_USIndexList_170903_1"}]};
+//2017-09-17 00:55:48.003652
+var weeklyWatcherUSIndexListData ={"list": [{"code": "WEEKLY_USIndexList_170917", "label": "WEEKLY_USIndexList_170917_5", "list": [{"code": "GPC.US", "label": "W [S2, M2, $70.53m, 0.0815]"}, {"code": "PAYX.US", "label": "W [S9, M2, $116.38m, 0.0225]"}, {"code": "HES.US", "label": "W [S2, M2, $224.41m, 0.0222]"}, {"code": "NFX.US", "label": "W [S2, M2, $118.04m, 0.1642]"}, {"code": "BBBY.US", "label": "W [S9, M2, $137.62m, 0.0592]"}]}]};
