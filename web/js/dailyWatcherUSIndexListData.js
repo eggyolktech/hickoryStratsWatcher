@@ -1,2 +1,2 @@
-//2017-09-21 00:50:36.634142
-var dailyWatcherUSIndexListData ={"list": [{"label": "DAILY_USIndexList_170921_2", "code": "DAILY_USIndexList_170921", "list": [{"label": "D [S9, M2, $57.16m, 0.1133]", "code": "NDAQ.US"}, {"label": "D [S10, M2, $121.80m, 0.1200]", "code": "HIG.US"}]}]};
+//2017-09-23 00:55:14.391467
+var dailyWatcherUSIndexListData ={"list": [{"code": "DAILY_USIndexList_170923", "label": "DAILY_USIndexList_170923_1", "list": [{"code": "DISH.US", "label": "<b>D [S1, M1, $152.56m, 0.0184]</b>"}]}]};

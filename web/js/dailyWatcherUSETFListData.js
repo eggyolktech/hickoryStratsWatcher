@@ -1,2 +1,2 @@
-//2017-09-21 01:03:37.540004
-var dailyWatcherUSETFListData ={"list": [{"label": "DAILY_USETFList_170921_1", "code": "DAILY_USETFList_170921", "list": [{"label": "D [S7, M2, $5.05m, 0.0512]", "code": "BIS.US"}]}]};
+//2017-09-23 01:06:59.432908
+var dailyWatcherUSETFListData ={"list": [{"code": "DAILY_USETFList_170923", "label": "DAILY_USETFList_170923_5", "list": [{"code": "IYZ.US", "label": "D [S2, M2, $18.98m, 0.0393]"}, {"code": "SQQQ.US", "label": "D [S2, M2, $215.63m, 0.1017]"}, {"code": "QID.US", "label": "D [S2, M2, $46.79m, 0.0382]"}, {"code": "EUM.US", "label": "D [S2, M2, $5.46m, 0.0129]"}, {"code": "PSQ.US", "label": "D [S2, M2, $20.46m, 0.0467]"}]}]};
