@@ -1,2 +1,2 @@
-//2017-09-23 00:55:14.391467
-var dailyWatcherUSIndexListData ={"list": [{"code": "DAILY_USIndexList_170923", "label": "DAILY_USIndexList_170923_1", "list": [{"code": "DISH.US", "label": "<b>D [S1, M1, $152.56m, 0.0184]</b>"}]}]};
+//2017-09-26 00:58:02.766995
+var dailyWatcherUSIndexListData ={"list": [{"label": "DAILY_USIndexList_170926_2", "code": "DAILY_USIndexList_170926", "list": [{"label": "<b>D [S18, M1, $40.08m, 0.0205]</b>", "code": "CINF.US"}, {"label": "<b>D [S6, M1, $217.38m, 0.1211]</b>", "code": "CBS.US"}]}]};
