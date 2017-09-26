@@ -1,2 +1,2 @@
-//2017-09-26 00:58:02.766995
-var dailyWatcherUSIndexListData ={"list": [{"label": "DAILY_USIndexList_170926_2", "code": "DAILY_USIndexList_170926", "list": [{"label": "<b>D [S18, M1, $40.08m, 0.0205]</b>", "code": "CINF.US"}, {"label": "<b>D [S6, M1, $217.38m, 0.1211]</b>", "code": "CBS.US"}]}]};
+//2017-09-27 01:02:20.317207
+var dailyWatcherUSIndexListData ={"list": [{"list": [{"code": "CPB.US", "label": "<b>D [S15, M1, $102.96m, 0.0169]</b>"}, {"code": "DD.US", "label": "<b>D [S2, M1, $198.30m, 0.2496]</b>"}, {"code": "CINF.US", "label": "D [S19, M2, $40.04m, 0.0704]"}, {"code": "MDLZ.US", "label": "<b>D [S1, M14, $348.06m, 0.0685]</b>"}], "code": "DAILY_USIndexList_170927", "label": "DAILY_USIndexList_170927_4"}]};
