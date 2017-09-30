@@ -1,2 +1,2 @@
-//2017-09-24 00:55:11.652368
-var weeklyWatcherUSETFListData ={"list": [{"code": "WEEKLY_USETFList_170924", "label": "WEEKLY_USETFList_170924_1", "list": [{"code": "SRS.US", "label": "W [S2, M2, $4.41m, 0.0384]"}]}]};
+//2017-10-01 01:11:07.025111
+var weeklyWatcherUSETFListData ={"list": [{"label": "WEEKLY_USETFList_171001_1", "code": "WEEKLY_USETFList_171001", "list": [{"label": "W [S16, M2, $3.22m, 0.0028]", "code": "USDU.US"}]}]};
