@@ -1,2 +1,2 @@
-//2017-10-04 01:06:52.654990
-var dailyWatcherUSETFListData ={"list": [{"list": [{"label": "<b>D [S2, M1, $65.92m, 0.0937]</b>", "code": "SCO.US"}, {"label": "<b>D [S2, M1, $71.42m, 0.0871]</b>", "code": "DWT.US"}], "label": "DAILY_USETFList_171004_2", "code": "DAILY_USETFList_171004"}]};
+//2017-10-05 01:05:24.915351
+var dailyWatcherUSETFListData ={"list": [{"label": "DAILY_USETFList_171005_3", "list": [{"label": "<b>D [S2, M1, $6.39m, 0.0012]</b>", "code": "LMBS.US"}, {"label": "D [S3, M2, $71.42m, 0.2175]", "code": "DWT.US"}, {"label": "D [S3, M2, $65.85m, 0.2218]", "code": "SCO.US"}], "code": "DAILY_USETFList_171005"}]};
