@@ -1,2 +1,2 @@
-//2017-10-01 00:54:14.832234
-var weeklyWatcherUSIndexListData ={"list": [{"label": "WEEKLY_USIndexList_171001_5", "code": "WEEKLY_USIndexList_171001", "list": [{"label": "W [S9, M2, $119.11m, 0.4367]", "code": "KLAC.US"}, {"label": "W [S9, M2, $317.75m, 0.2698]", "code": "PXD.US"}, {"label": "W [S2, M2, $176.01m, 0.1639]", "code": "LB.US"}, {"label": "W [S2, M2, $149.86m, 0.0785]", "code": "MOS.US"}, {"label": "W [S2, M2, $226.99m, 0.0077]", "code": "CHK.US"}]}]};
+//2017-10-08 00:53:05.288124
+var weeklyWatcherUSIndexListData ={"list": [{"code": "WEEKLY_USIndexList_171008", "label": "WEEKLY_USIndexList_171008_3", "list": [{"code": "ENDP.US", "label": "W [S2, M2, $170.94m, 0.0132]"}, {"code": "MYL.US", "label": "W [S2, M2, $302.16m, 0.1373]"}, {"code": "APA.US", "label": "W [S2, M9, $224.67m, 0.4564]"}]}]};
