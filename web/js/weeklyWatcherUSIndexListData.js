@@ -1,2 +1,2 @@
-//2017-10-08 00:53:05.288124
-var weeklyWatcherUSIndexListData ={"list": [{"code": "WEEKLY_USIndexList_171008", "label": "WEEKLY_USIndexList_171008_3", "list": [{"code": "ENDP.US", "label": "W [S2, M2, $170.94m, 0.0132]"}, {"code": "MYL.US", "label": "W [S2, M2, $302.16m, 0.1373]"}, {"code": "APA.US", "label": "W [S2, M9, $224.67m, 0.4564]"}]}]};
+//2017-10-15 00:45:00.823617
+var weeklyWatcherUSIndexListData ={"list": [{"list": [{"code": "CTXS.US", "label": "W [S16, M2, $110.84m, 0.0741]"}], "code": "WEEKLY_USIndexList_171015", "label": "WEEKLY_USIndexList_171015_1"}]};
