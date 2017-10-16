@@ -1,2 +1,2 @@
-//2017-10-14 00:42:54.820466
-var dailyWatcherUSIndexListData ={"list": [{"code": "DAILY_USIndexList_171014", "label": "DAILY_USIndexList_171014_2", "list": [{"code": "K.US", "label": "<b>D [S2, M1, $154.10m, 0.0494]</b>"}, {"code": "GIS.US", "label": "<b>D [S1, M1, $205.82m, 0.0282]</b>"}]}]};
+//2017-10-17 00:43:55.802965
+var dailyWatcherUSIndexListData ={"list": [{"code": "DAILY_USIndexList_171017", "list": [{"code": "SHPG.US", "label": "<b>D [S5, M1, $199.17m, 0.1187]</b>"}, {"code": "JD.US", "label": "<b>D [S7, M1, $359.29m, 0.0373]</b>"}], "label": "DAILY_USIndexList_171017_2"}]};
