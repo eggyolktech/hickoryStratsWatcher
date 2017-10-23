@@ -1,2 +1,2 @@
-//2017-10-21 00:47:24.779689
-var dailyWatcherUSIndexListData ={"list": [{"list": [{"code": "EVHC.US", "label": "D [S19, M2, $108.97m, 0.4820]"}, {"code": "BBBY.US", "label": "<b>D [S1, M2, $103.88m, 0.0692]</b>"}], "code": "DAILY_USIndexList_171021", "label": "DAILY_USIndexList_171021_2"}]};
+//2017-10-24 00:47:22.592647
+var dailyWatcherUSIndexListData ={"list": [{"list": [{"code": "DISCK.US", "label": "<b>D [S1, M1, $47.04m, 0.0115]</b>"}, {"code": "VIA.US", "label": "<b>D [S8, M1, $3.08m, 0.0123]</b>"}, {"code": "RSG.US", "label": "<b>D [S1, M1, $70.74m, 0.0307]</b>"}, {"code": "BBBY.US", "label": "<b>D [S1, M5, $104.14m, 0.1003]</b>"}, {"code": "CVS.US", "label": "<b>D [S4, M1, $533.87m, 0.0115]</b>"}, {"code": "FL.US", "label": "<b>D [S1, M1, $161.08m, 0.0207]</b>"}, {"code": "TMUS.US", "label": "<b>D [S11, M1, $251.37m, 0.0164]</b>"}], "code": "DAILY_USIndexList_171024", "label": "DAILY_USIndexList_171024_7"}]};
