@@ -1,2 +1,2 @@
-//2017-10-26 00:51:44.086133
-var dailyWatcherUSIndexListData ={"list": [{"label": "DAILY_USIndexList_171026_4", "code": "DAILY_USIndexList_171026", "list": [{"label": "D [S6, M2, $238.14m, 0.1151]", "code": "ULTA.US"}, {"label": "<b>D [S2, M1, $276.27m, 0.1331]</b>", "code": "ESRX.US"}, {"label": "D [S6, M2, $534.16m, 0.1372]", "code": "CVS.US"}, {"label": "D [S2, M13, $155.08m, 0.0605]", "code": "K.US"}]}]};
+//2017-10-27 00:50:32.239585
+var dailyWatcherUSIndexListData ={"list": [{"code": "DAILY_USIndexList_171027", "list": [{"code": "ESRX.US", "label": "D [S3, M2, $277.01m, 0.3467]"}, {"code": "KSS.US", "label": "<b>D [S9, M1, $183.21m, 0.0137]</b>"}, {"code": "AN.US", "label": "<b>D [S4, M1, $55.36m, 0.0853]</b>"}, {"code": "WBA.US", "label": "D [S4, M2, $390.80m, 0.2999]"}], "label": "DAILY_USIndexList_171027_4"}]};
