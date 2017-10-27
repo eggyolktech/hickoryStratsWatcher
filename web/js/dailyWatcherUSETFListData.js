@@ -1,2 +1,2 @@
-//2017-10-27 01:03:35.448978
-var dailyWatcherUSETFListData ={"list": [{"code": "DAILY_USETFList_171027", "list": [{"code": "VXZ.US", "label": "D [S4, M2, $4.42m, 0.0357]"}], "label": "DAILY_USETFList_171027_1"}]};
+//2017-10-28 01:03:07.824750
+var dailyWatcherUSETFListData ={"list": [{"label": "DAILY_USETFList_171028_2", "code": "DAILY_USETFList_171028", "list": [{"label": "<b>D [S1, M1, $4.45m, 0.0088]</b>", "code": "JO.US"}, {"label": "<b>D [S1, M1, $3.47m, 0.0003]</b>", "code": "TDTT.US"}]}]};
