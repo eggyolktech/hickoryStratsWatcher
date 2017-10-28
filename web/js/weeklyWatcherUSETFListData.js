@@ -1,2 +1,2 @@
-//2017-10-08 01:09:42.219095
-var weeklyWatcherUSETFListData ={"list": [{"code": "WEEKLY_USETFList_171008", "label": "WEEKLY_USETFList_171008_2", "list": [{"code": "HEWG.US", "label": "W [S16, M2, $15.93m, 0.0486]"}, {"code": "HEDJ.US", "label": "W [S16, M2, $193.63m, 0.0037]"}]}]};
+//2017-10-29 01:06:41.559833
+var weeklyWatcherUSETFListData ={"list": [{"list": [{"label": "W [S2, M2, $11.81m, 0.1917]", "code": "BIS.US"}], "label": "WEEKLY_USETFList_171029_1", "code": "WEEKLY_USETFList_171029"}]};
