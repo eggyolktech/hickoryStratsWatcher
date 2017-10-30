@@ -1,2 +1,2 @@
-//2017-10-28 00:50:29.825528
-var dailyWatcherUSIndexListData ={"list": [{"label": "DAILY_USIndexList_171028_1", "code": "DAILY_USIndexList_171028", "list": [{"label": "<b>D [S5, M1, $55.47m, 0.1063]</b>", "code": "AN.US"}]}]};
+//2017-10-31 00:45:17.508677
+var dailyWatcherUSIndexListData ={"list": [{"code": "DAILY_USIndexList_171031", "list": [{"code": "WBA.US", "label": "<b>D [S8, M1, $398.70m, 0.0491]</b>"}, {"code": "FTI.US", "label": "<b>D [S5, M1, $124.33m, 0.0623]</b>"}, {"code": "COG.US", "label": "<b>D [S4, M1, $143.97m, 0.1005]</b>"}], "label": "DAILY_USIndexList_171031_3"}]};
