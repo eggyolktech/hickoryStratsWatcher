@@ -1,2 +1,2 @@
-//2017-10-31 00:59:14.970554
-var dailyWatcherUSETFListData ={"list": [{"code": "DAILY_USETFList_171031", "list": [{"code": "SHY.US", "label": "<b>D [S1, M4, $99.72m, 0.0054]</b>"}, {"code": "TDTT.US", "label": "<b>D [S4, M1, $3.46m, 0.0039]</b>"}, {"code": "STPZ.US", "label": "<b>D [S1, M4, $4.75m, 0.0071]</b>"}, {"code": "VGSH.US", "label": "<b>D [S1, M4, $10.58m, 0.0044]</b>"}], "label": "DAILY_USETFList_171031_4"}]};
+//2017-11-01 01:06:34.429855
+var dailyWatcherUSETFListData ={"list": [{"label": "DAILY_USETFList_171101_6", "code": "DAILY_USETFList_171101", "list": [{"label": "D [S2, M5, $4.83m, 0.0125]", "code": "STPZ.US"}, {"label": "<b>D [S13, M1, $3.26m, 0.0018]</b>", "code": "BSCL.US"}, {"label": "D [S2, M5, $10.56m, 0.0057]", "code": "VGSH.US"}, {"label": "D [S2, M5, $99.49m, 0.0084]", "code": "SHY.US"}, {"label": "D [S5, M2, $3.45m, 0.0067]", "code": "TDTT.US"}, {"label": "<b>D [S9, M1, $10.46m, 0.0015]</b>", "code": "DOG.US"}]}]};
