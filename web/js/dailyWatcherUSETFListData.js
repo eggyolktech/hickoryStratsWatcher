@@ -1,2 +1,2 @@
-//2017-11-02 00:57:49.304373
-var dailyWatcherUSETFListData ={"list": [{"label": "DAILY_USETFList_171102_5", "code": "DAILY_USETFList_171102", "list": [{"label": "D [S10, M2, $10.46m, 0.0045]", "code": "DOG.US"}, {"label": "D [S14, M2, $3.26m, 0.0016]", "code": "BSCL.US"}, {"label": "<b>D [S1, M3, $58.73m, 0.0180]</b>", "code": "IEI.US"}, {"label": "<b>D [S1, M3, $6.71m, 0.0108]</b>", "code": "SCHR.US"}, {"label": "<b>D [S6, M1, $7.56m, 0.0063]</b>", "code": "AMZA.US"}]}]};
+//2017-11-03 01:03:33.335824
+var dailyWatcherUSETFListData ={"list": [{"label": "DAILY_USETFList_171103_2", "code": "DAILY_USETFList_171103", "list": [{"label": "<b>D [S1, M4, $6.65m, 0.0109]</b>", "code": "SCHR.US"}, {"label": "<b>D [S1, M4, $58.51m, 0.0205]</b>", "code": "IEI.US"}]}]};
