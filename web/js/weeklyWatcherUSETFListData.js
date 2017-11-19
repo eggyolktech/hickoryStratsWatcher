@@ -1,2 +1,2 @@
-//2017-10-29 01:06:41.559833
-var weeklyWatcherUSETFListData ={"list": [{"list": [{"label": "W [S2, M2, $11.81m, 0.1917]", "code": "BIS.US"}], "label": "WEEKLY_USETFList_171029_1", "code": "WEEKLY_USETFList_171029"}]};
+//2017-11-19 23:26:41.892105
+var weeklyWatcherUSETFListData ={"list": [{"label": "WEEKLY_USETFList_171119_1", "code": "WEEKLY_USETFList_171119", "list": [{"label": "W [S9, M2, $5.06m, 0.0912]", "code": "RHS.US"}]}]};
