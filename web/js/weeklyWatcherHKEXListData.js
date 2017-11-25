@@ -1,2 +1,2 @@
-//2017-11-19 23:01:42.296948
-var weeklyWatcherHKEXListData ={"list": [{"label": "WEEKLY_HKEXList_171119_3", "code": "WEEKLY_HKEXList_171119", "list": [{"label": "W [S2, M16, $14.65m, 0.0283]", "code": "1368"}, {"label": "W [S2, M16, $3.33m, 0.0015]", "code": "0048"}, {"label": "W [S2, M2, $3.58m, 0.0005]", "code": "1420"}]}]};
+//2017-11-26 01:00:08.490844
+var weeklyWatcherHKEXListData ={"list": [{"code": "WEEKLY_HKEXList_171126", "label": "WEEKLY_HKEXList_171126_5", "list": [{"code": "1004", "label": "W [S2, M2, $17.28m, 0.0040]"}, {"code": "0751", "label": "W [S9, M2, $54.86m, 0.0160]"}, {"code": "0559", "label": "W [S2, M9, $8.61m, 0.0010]"}, {"code": "0157", "label": "W [S16, M2, $6.37m, 0.0008]"}, {"code": "1132", "label": "W [S9, M2, $8.12m, 0.0043]"}]}]};
