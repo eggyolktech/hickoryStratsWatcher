@@ -1,2 +1,2 @@
-//2017-11-19 23:26:41.892105
-var weeklyWatcherUSETFListData ={"list": [{"label": "WEEKLY_USETFList_171119_1", "code": "WEEKLY_USETFList_171119", "list": [{"label": "W [S9, M2, $5.06m, 0.0912]", "code": "RHS.US"}]}]};
+//2017-12-03 01:15:34.667090
+var weeklyWatcherUSETFListData ={"list": [{"code": "WEEKLY_USETFList_171203", "list": [{"code": "VDC.US", "label": "W [S16, M2, $15.02m, 0.3219]"}, {"code": "XLP.US", "label": "W [S16, M2, $555.72m, 0.1163]"}, {"code": "CHAD.US", "label": "W [S2, M2, $3.91m, 0.0555]"}], "label": "WEEKLY_USETFList_171203_3"}]};

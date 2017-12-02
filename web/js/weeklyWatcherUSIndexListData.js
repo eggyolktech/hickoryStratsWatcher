@@ -1,2 +1,2 @@
-//2017-11-26 01:06:09.752202
-var weeklyWatcherUSIndexListData ={"list": [{"code": "WEEKLY_USIndexList_171126", "label": "WEEKLY_USIndexList_171126_4", "list": [{"code": "MDT.US", "label": "W [S9, M2, $450.85m, 0.0326]"}, {"code": "GIS.US", "label": "W [S2, M16, $196.13m, 0.2532]"}, {"code": "ENDP.US", "label": "W [S2, M2, $165.83m, 0.0474]"}, {"code": "COTY.US", "label": "W [S9, M2, $88.59m, 0.0565]"}]}]};
+//2017-12-03 01:03:48.029499
+var weeklyWatcherUSIndexListData ={"list": [{"code": "WEEKLY_USIndexList_171203", "list": [{"code": "BBBY.US", "label": "W [S2, M2, $130.94m, 0.1713]"}, {"code": "ABC.US", "label": "W [S16, M2, $192.78m, 0.3121]"}], "label": "WEEKLY_USIndexList_171203_2"}]};
