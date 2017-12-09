@@ -1,2 +1,2 @@
-//2017-12-03 01:03:48.029499
-var weeklyWatcherUSIndexListData ={"list": [{"code": "WEEKLY_USIndexList_171203", "list": [{"code": "BBBY.US", "label": "W [S2, M2, $130.94m, 0.1713]"}, {"code": "ABC.US", "label": "W [S16, M2, $192.78m, 0.3121]"}], "label": "WEEKLY_USIndexList_171203_2"}]};
+//2017-12-10 01:08:27.043015
+var weeklyWatcherUSIndexListData ={"list": [{"list": [{"label": "W [S9, M2, $89.83m, 0.0414]", "code": "IPG.US"}, {"label": "W [S16, M2, $58.58m, 0.0410]", "code": "DISCK.US"}, {"label": "W [S9, M2, $90.15m, 0.3816]", "code": "UHS.US"}, {"label": "W [S16, M2, $98.05m, 0.0325]", "code": "DISCA.US"}, {"label": "W [S9, M2, $46.95m, 0.0036]", "code": "NAVI.US"}, {"label": "W [S9, M2, $3.35m, 0.0706]", "code": "VIA.US"}], "label": "WEEKLY_USIndexList_171210_6", "code": "WEEKLY_USIndexList_171210"}]};
