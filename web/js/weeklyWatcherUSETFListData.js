@@ -1,2 +1,2 @@
-//2017-12-17 01:24:55.674199
-var weeklyWatcherUSETFListData ={"list": [{"code": "WEEKLY_USETFList_171217", "list": [{"code": "AMZA.US", "label": "W [S2, M2, $3.02m, 0.0156]"}], "label": "WEEKLY_USETFList_171217_1"}]};
+//2017-12-24 01:27:27.104246
+var weeklyWatcherUSETFListData ={"list": [{"code": "WEEKLY_USETFList_171224", "list": [{"code": "AMJ.US", "label": "W [S2, M9, $74.37m, 0.0764]"}, {"code": "QID.US", "label": "W [S2, M16, $85.04m, 0.0088]"}, {"code": "AMLP.US", "label": "W [S2, M9, $111.06m, 0.0333]"}, {"code": "IYZ.US", "label": "W [S9, M2, $15.54m, 0.0062]"}, {"code": "GREK.US", "label": "W [S9, M2, $6.30m, 0.0232]"}], "label": "WEEKLY_USETFList_171224_5"}]};
