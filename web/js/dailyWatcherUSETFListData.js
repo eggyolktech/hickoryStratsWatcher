@@ -1,2 +1,2 @@
-//2018-01-06 01:27:23.619848
-var dailyWatcherUSETFListData ={"list": [{"code": "DAILY_USETFList_180106", "list": [{"code": "VXX.US", "label": "<b>D [S10, M1, $2728.88m, 0.0076]</b>"}, {"code": "FLRN.US", "label": "D [S9, M2, $9.53m, 0.0024]"}, {"code": "CSJ.US", "label": "D [S2, M10, $48.45m, 0.0022]"}, {"code": "VIIX.US", "label": "<b>D [S10, M1, $5.79m, 0.0030]</b>"}, {"code": "VIXY.US", "label": "<b>D [S10, M1, $94.22m, 0.0045]</b>"}, {"code": "VCSH.US", "label": "<b>D [S8, M1, $110.69m, 0.0002]</b>"}, {"code": "EWP.US", "label": "D [S3, M2, $42.33m, 0.1042]"}], "label": "DAILY_USETFList_180106_7"}]};
+//2018-01-10 01:31:35.322111
+var dailyWatcherUSETFListData ={"list": [{"code": "DAILY_USETFList_180110", "label": "DAILY_USETFList_180110_1", "list": [{"code": "VXX.US", "label": "<b>D [S14, M1, $2709.04m, 0.0076]</b>"}]}]};
