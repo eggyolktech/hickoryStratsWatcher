@@ -1,2 +1,2 @@
-//2018-01-12 01:15:11.216506
-var dailyWatcherUSETFListData ={"list": [{"label": "DAILY_USETFList_180112_4", "list": [{"label": "D [S4, M2, $94.99m, 0.0135]", "code": "PFF.US"}, {"label": "<b>D [S10, M1, $111.50m, 0.0006]</b>", "code": "BSV.US"}, {"label": "<b>D [S1, M16, $48.79m, 0.0123]</b>", "code": "CSJ.US"}, {"label": "<b>D [S4, M1, $413.08m, 0.1227]</b>", "code": "JDST.US"}], "code": "DAILY_USETFList_180112"}]};
+//2018-01-13 01:17:39.652925
+var dailyWatcherUSETFListData ={"list": [{"code": "DAILY_USETFList_180113", "label": "DAILY_USETFList_180113_4", "list": [{"code": "BSV.US", "label": "D [S11, M2, $113.21m, 0.0015]"}, {"code": "XSLV.US", "label": "<b>D [S5, M1, $6.30m, 0.0359]</b>"}, {"code": "JDST.US", "label": "D [S5, M2, $408.03m, 0.0069]"}, {"code": "CSJ.US", "label": "<b>D [S1, M17, $48.70m, 0.0081]</b>"}]}]};
