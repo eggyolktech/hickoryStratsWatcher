@@ -1,2 +1,2 @@
-//2017-12-24 01:11:36.287709
-var weeklyWatcherUSIndexListData ={"list": [{"code": "WEEKLY_USIndexList_171224", "list": [{"code": "TAP.US", "label": "W [S2, M2, $159.26m, 0.1697]"}, {"code": "KMI.US", "label": "W [S9, M2, $379.50m, 0.0153]"}, {"code": "ALK.US", "label": "W [S9, M2, $104.72m, 0.3982]"}, {"code": "SRCL.US", "label": "W [S16, M2, $105.84m, 0.1968]"}, {"code": "CAH.US", "label": "W [S9, M2, $189.80m, 0.1921]"}], "label": "WEEKLY_USIndexList_171224_5"}]};
+//2018-01-14 01:07:08.556252
+var weeklyWatcherUSIndexListData ={"list": [{"label": "WEEKLY_USIndexList_180114_5", "code": "WEEKLY_USIndexList_180114", "list": [{"label": "W [S2, M2, $1341.32m, 0.0132]", "code": "GE.US"}, {"label": "W [S2, M2, $654.52m, 0.0228]", "code": "MRK.US"}, {"label": "W [S9, M2, $125.78m, 0.0254]", "code": "HBI.US"}, {"label": "W [S9, M2, $807.31m, 0.1103]", "code": "AGN.US"}, {"label": "W [S9, M2, $79.38m, 0.1427]", "code": "HSIC.US"}]}]};
