@@ -1,2 +1,2 @@
-//2018-01-17 01:17:42.231830
-var dailyWatcherUSETFListData ={"list": [{"label": "DAILY_USETFList_180117_2", "list": [{"label": "<b>D [S8, M1, $21.64m, 0.0015]</b>", "code": "VTIP.US"}, {"label": "<b>D [S15, M1, $10.91m, 0.0001]</b>", "code": "VGSH.US"}], "code": "DAILY_USETFList_180117"}]};
+//2018-01-18 01:19:33.114243
+var dailyWatcherUSETFListData ={"list": [{"label": "DAILY_USETFList_180118_3", "list": [{"label": "<b>D [S2, M1, $9.10m, 0.0023]</b>", "code": "GSY.US"}, {"label": "<b>D [S1, M16, $84.40m, 0.0008]</b>", "code": "SHY.US"}, {"label": "<b>D [S9, M1, $21.81m, 0.0061]</b>", "code": "VTIP.US"}], "code": "DAILY_USETFList_180118"}]};

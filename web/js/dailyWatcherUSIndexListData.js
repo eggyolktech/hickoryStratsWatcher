@@ -1,2 +1,2 @@
-//2018-01-17 01:05:10.596170
-var dailyWatcherUSIndexListData ={"list": [{"label": "DAILY_USIndexList_180117_3", "list": [{"label": "<b>D [S1, M1, $104.22m, 0.0297]</b>", "code": "BBBY.US"}, {"label": "<b>D [S19, M1, $634.98m, 0.0798]</b>", "code": "QCOM.US"}, {"label": "<b>D [S6, M1, $268.07m, 0.0385]</b>", "code": "KHC.US"}], "code": "DAILY_USIndexList_180117"}]};
+//2018-01-18 01:04:16.901534
+var dailyWatcherUSIndexListData ={"list": [{"label": "DAILY_USIndexList_180118_3", "list": [{"label": "<b>D [S6, M1, $458.72m, 0.0802]</b>", "code": "PM.US"}, {"label": "D [S2, M2, $104.33m, 0.0945]", "code": "BBBY.US"}, {"label": "D [S7, M2, $269.12m, 0.2336]", "code": "KHC.US"}], "code": "DAILY_USIndexList_180118"}]};
