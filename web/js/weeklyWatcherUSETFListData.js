@@ -1,2 +1,2 @@
-//2018-01-14 01:19:04.242771
-var weeklyWatcherUSETFListData ={"list": [{"label": "WEEKLY_USETFList_180114_1", "code": "WEEKLY_USETFList_180114", "list": [{"label": "W [S2, M2, $72.19m, 0.0621]", "code": "UNG.US"}]}]};
+//2018-01-21 01:22:07.271441
+var weeklyWatcherUSETFListData ={"list": [{"label": "WEEKLY_USETFList_180121_2", "list": [{"label": "W [S2, M2, $4.66m, 0.0453]", "code": "BOIL.US"}, {"label": "W [S2, M16, $2705.15m, 2.8267]", "code": "UGAZ.US"}], "code": "WEEKLY_USETFList_180121"}]};
