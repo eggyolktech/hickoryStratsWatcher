@@ -1,2 +1,2 @@
-//2018-01-25 01:05:59.402188
-var dailyWatcherUSIndexListData ={"list": [{"code": "DAILY_USIndexList_180125", "list": [{"code": "MO.US", "label": "<b>D [S8, M1, $473.31m, 0.0402]</b>"}, {"code": "LB.US", "label": "<b>D [S3, M1, $209.67m, 0.0983]</b>"}], "label": "DAILY_USIndexList_180125_2"}]};
+//2018-01-27 01:06:10.014101
+var dailyWatcherUSIndexListData ={"list": [{"list": [{"code": "HSY.US", "label": "<b>D [S3, M1, $110.19m, 0.0111]</b>"}], "code": "DAILY_USIndexList_180127", "label": "DAILY_USIndexList_180127_1"}]};
