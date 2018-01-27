@@ -1,2 +1,2 @@
-//2018-01-21 01:05:49.585753
-var weeklyWatcherUSIndexListData ={"list": [{"label": "WEEKLY_USIndexList_180121_1", "list": [{"label": "W [S2, M16, $138.37m, 0.0560]", "code": "DISH.US"}], "code": "WEEKLY_USIndexList_180121"}]};
+//2018-01-28 00:59:05.777434
+var weeklyWatcherUSIndexListData ={"list": [{"label": "WEEKLY_USIndexList_180128_5", "code": "WEEKLY_USIndexList_180128", "list": [{"label": "W [S16, M2, $288.45m, 0.4525]", "code": "EXPE.US"}, {"label": "W [S16, M2, $287.76m, 0.5544]", "code": "ALXN.US"}, {"label": "W [S9, M2, $121.58m, 0.0507]", "code": "NLSN.US"}, {"label": "W [S16, M2, $429.02m, 0.1095]", "code": "TWX.US"}, {"label": "W [S23, M2, $186.60m, 0.0625]", "code": "CTRP.US"}]}]};
