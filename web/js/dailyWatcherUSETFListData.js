@@ -1,2 +1,2 @@
-//2018-02-09 01:12:22.966235
-var dailyWatcherUSETFListData ={"list": [{"code": "DAILY_USETFList_180209", "label": "DAILY_USETFList_180209_1", "list": [{"code": "JO.US", "label": "D [S14, M2, $4.43m, 0.0190]"}]}]};
+//2018-02-10 01:15:09.191334
+var dailyWatcherUSETFListData ={"list": [{"label": "DAILY_USETFList_180210_3", "code": "DAILY_USETFList_180210", "list": [{"label": "<b>D [S1, M5, $48.85m, 0.0089]</b>", "code": "BNDX.US"}, {"label": "<b>D [S5, M1, $84.20m, 0.0045]</b>", "code": "SHY.US"}, {"label": "<b>D [S5, M1, $15.96m, 0.0016]</b>", "code": "SCHO.US"}]}]};
