@@ -1,2 +1,2 @@
-//2018-02-13 01:22:12.545276
-var dailyWatcherUSETFListData ={"list": [{"list": [{"label": "<b>D [S7, M1, $27.94m, 0.0005]</b>", "code": "PGX.US"}, {"label": "<b>D [S6, M1, $3.05m, 0.0033]</b>", "code": "PSK.US"}, {"label": "<b>D [S8, M1, $5.74m, 0.0031]</b>", "code": "PGF.US"}], "label": "DAILY_USETFList_180213_3", "code": "DAILY_USETFList_180213"}]};
+//2018-02-14 01:35:02.937778
+var dailyWatcherUSETFListData ={"list": [{"label": "DAILY_USETFList_180214_5", "list": [{"label": "<b>D [S9, M1, $3.74m, 0.0016]</b>", "code": "ITE.US"}, {"label": "<b>D [S16, M1, $58.30m, 0.0039]</b>", "code": "IEI.US"}, {"label": "D [S7, M2, $3.04m, 0.0268]", "code": "PSK.US"}, {"label": "D [S9, M2, $5.75m, 0.0116]", "code": "PGF.US"}, {"label": "D [S8, M2, $27.96m, 0.0075]", "code": "PGX.US"}], "code": "DAILY_USETFList_180214"}]};
