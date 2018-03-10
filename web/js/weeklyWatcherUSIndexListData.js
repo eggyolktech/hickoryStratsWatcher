@@ -1,2 +1,2 @@
-//2018-02-25 01:02:38.900339
-var weeklyWatcherUSIndexListData ={"list": [{"list": [{"label": "W [S16, M2, $471.74m, 0.0617]", "code": "PM.US"}, {"label": "W [S9, M2, $67.22m, 0.0124]", "code": "BLL.US"}, {"label": "W [S16, M2, $271.95m, 0.4095]", "code": "SWKS.US"}], "label": "WEEKLY_USIndexList_180225_3", "code": "WEEKLY_USIndexList_180225"}]};
+//2018-03-11 01:06:20.531284
+var weeklyWatcherUSIndexListData ={"list": [{"list": [{"label": "W [S23, M2, $116.15m, 0.0959]", "code": "CHKP.US"}, {"label": "W [S2, M2, $154.98m, 0.1225]", "code": "RRC.US"}], "label": "WEEKLY_USIndexList_180311_2", "code": "WEEKLY_USIndexList_180311"}]};
