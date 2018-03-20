@@ -1,2 +1,2 @@
-//2018-03-20 01:02:49.364676
-var dailyWatcherUSIndexListData ={"list": [{"code": "DAILY_USIndexList_180320", "list": [{"code": "TSCO.US", "label": "<b>D [S1, M15, $138.26m, 0.2458]</b>"}], "label": "DAILY_USIndexList_180320_1"}]};
+//2018-03-21 01:02:38.189281
+var dailyWatcherUSIndexListData ={"list": [{"list": [{"code": "PVH.US", "label": "<b>D [S2, M1, $109.85m, 0.0466]</b>"}, {"code": "TSCO.US", "label": "D [S2, M16, $138.00m, 0.1894]"}, {"code": "LKQ.US", "label": "D [S2, M6, $58.12m, 0.0602]"}, {"code": "XEC.US", "label": "D [S2, M22, $114.90m, 0.4764]"}], "code": "DAILY_USIndexList_180321", "label": "DAILY_USIndexList_180321_4"}]};
