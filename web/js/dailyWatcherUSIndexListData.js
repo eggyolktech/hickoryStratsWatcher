@@ -1,2 +1,2 @@
-//2018-03-21 01:02:38.189281
-var dailyWatcherUSIndexListData ={"list": [{"list": [{"code": "PVH.US", "label": "<b>D [S2, M1, $109.85m, 0.0466]</b>"}, {"code": "TSCO.US", "label": "D [S2, M16, $138.00m, 0.1894]"}, {"code": "LKQ.US", "label": "D [S2, M6, $58.12m, 0.0602]"}, {"code": "XEC.US", "label": "D [S2, M22, $114.90m, 0.4764]"}], "code": "DAILY_USIndexList_180321", "label": "DAILY_USIndexList_180321_4"}]};
+//2018-03-22 01:07:11.457528
+var dailyWatcherUSIndexListData ={"list": [{"label": "DAILY_USIndexList_180322_5", "code": "DAILY_USIndexList_180322", "list": [{"label": "D [S3, M2, $109.87m, 0.1786]", "code": "PVH.US"}, {"label": "<b>D [S1, M10, $124.29m, 0.0789]</b>", "code": "HOG.US"}, {"label": "<b>D [S1, M1, $500.21m, 0.0535]</b>", "code": "GM.US"}, {"label": "<b>D [S1, M2, $294.44m, 0.4005]</b>", "code": "EOG.US"}, {"label": "<b>D [S1, M2, $519.99m, 0.1929]</b>", "code": "LOW.US"}]}]};
