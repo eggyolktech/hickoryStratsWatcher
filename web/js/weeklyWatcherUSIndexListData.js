@@ -1,2 +1,2 @@
-//2018-04-08 01:17:50.178617
-var weeklyWatcherUSIndexListData ={"list": [{"list": [{"label": "W [S2, M9, $159.83m, 0.4471]", "code": "DLPH.US"}], "label": "WEEKLY_USIndexList_180408_1", "code": "WEEKLY_USIndexList_180408"}]};
+//2018-05-27 00:57:30.330540
+var weeklyWatcherUSIndexListData ={"list": [{"label": "WEEKLY_USIndexList_180527_5", "code": "WEEKLY_USIndexList_180527", "list": [{"label": "<b>W [S2, M2, $113.05m, 0.1045]</b>", "code": "HAS.US"}, {"label": "<b>W [S9, M2, $154.25m, 0.0640]</b>", "code": "CERN.US"}, {"label": "<b>W [S9, M2, $126.75m, 0.3067]</b>", "code": "SIG.US"}, {"label": "<b>W [S16, M2, $567.12m, 0.1304]</b>", "code": "CVS.US"}, {"label": "<b>W [S2, M16, $142.54m, 0.1097]</b>", "code": "ENDP.US"}]}]};
