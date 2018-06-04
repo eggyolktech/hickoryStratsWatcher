@@ -1,2 +1,2 @@
-//2018-05-26 00:52:52.616160
-var dailyWatcherUSIndexListData ={"list": [{"list": [{"label": "<b>D [S3, M1, $136.17m, 0.1585]</b>", "code": "ALK.US"}, {"label": "<b>D [S10, M1, $298.27m, 0.1469]</b>", "code": "LUV.US"}, {"label": "<b>D [S1, M2, $126.77m, 0.1203]</b>", "code": "SJM.US"}], "label": "DAILY_USIndexList_180526_3", "code": "DAILY_USIndexList_180526"}]};
+//2018-06-05 00:59:06.900463
+var dailyWatcherUSIndexListData ={"list": [{"code": "DAILY_USIndexList_180605", "label": "DAILY_USIndexList_180605_6", "list": [{"code": "COTY.US", "label": "<b>D [S1, M1, $96.51m, 0.0267]</b>"}, {"code": "ABC.US", "label": "<b>D [S4, M1, $153.72m, 0.0104]</b>"}, {"code": "PPG.US", "label": "<b>D [S21, M1, $186.36m, 0.0904]</b>"}, {"code": "LBTYK.US", "label": "<b>D [S1, M1, $95.15m, 0.0570]</b>"}, {"code": "LBTYA.US", "label": "<b>D [S1, M4, $69.71m, 0.0799]</b>"}, {"code": "MTD.US", "label": "<b>D [S21, M1, $98.81m, 0.9347]</b>"}]}]};
