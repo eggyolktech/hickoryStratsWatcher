@@ -1,2 +1,2 @@
-//2018-06-16 00:51:42.464178
-var dailyWatcherUSIndexListData ={"list": [{"list": [{"code": "DLTR.US", "label": "<b>D [S2, M3, $250.76m, 0.5096]</b>"}, {"code": "CCL.US", "label": "<b>D [S3, M3, $220.33m, 0.2706]</b>"}, {"code": "XRAY.US", "label": "<b>D [S4, M3, $119.01m, 0.2927]</b>"}, {"code": "NEM.US", "label": "<b>D [S4, M2, $179.90m, 0.0124]</b>"}, {"code": "COO.US", "label": "<b>D [S2, M2, $105.63m, 0.7001]</b>"}, {"code": "LUV.US", "label": "<b>D [S2, M22, $299.27m, 0.2043]</b>"}], "code": "DAILY_USIndexList_180616", "label": "DAILY_USIndexList_180616_6"}]};
+//2018-06-19 00:56:19.199705
+var dailyWatcherUSIndexListData ={"list": [{"list": [{"code": "XEC.US", "label": "<b>D [S7, M1, $116.76m, 0.1461]</b>"}], "code": "DAILY_USIndexList_180619", "label": "DAILY_USIndexList_180619_1"}]};
