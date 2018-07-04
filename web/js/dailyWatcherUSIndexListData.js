@@ -1,2 +1,2 @@
-//2018-07-03 00:54:17.613685
-var dailyWatcherUSIndexListData ={"list": [{"code": "DAILY_USIndexList_180703", "label": "DAILY_USIndexList_180703_1", "list": [{"code": "CTRP.US", "label": "<b>D [S1, M1, $228.53m, 0.0343]</b>"}]}]};
+//2018-07-05 00:54:53.098121
+var dailyWatcherUSIndexListData ={"list": [{"code": "DAILY_USIndexList_180705", "list": [{"code": "NEM.US", "label": "<b>D [S3, M2, $181.30m, 0.0192]</b>"}, {"code": "CB.US", "label": "<b>D [S2, M2, $229.62m, 0.1013]</b>"}, {"code": "BLL.US", "label": "<b>D [S3, M2, $105.24m, 0.0454]</b>"}, {"code": "LUV.US", "label": "<b>D [S21, M2, $302.93m, 0.0187]</b>"}], "label": "DAILY_USIndexList_180705_4"}]};
