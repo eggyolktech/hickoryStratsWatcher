@@ -1,2 +1,2 @@
-//2018-07-15 00:57:54.053359
-var weeklyWatcherUSIndexListData ={"list": [{"list": [{"code": "CELG.US", "label": "<b>W [S2, M23, $597.34m, 1.1168]</b>"}, {"code": "K.US", "label": "<b>W [S9, M2, $159.24m, 0.6947]</b>"}, {"code": "PM.US", "label": "<b>W [S2, M2, $493.57m, 0.2186]</b>"}, {"code": "UTX.US", "label": "<b>W [S23, M2, $482.47m, 0.2019]</b>"}, {"code": "PYPL.US", "label": "<b>W [S2, M2, $459.71m, 0.3042]</b>"}], "code": "WEEKLY_USIndexList_180715", "label": "WEEKLY_USIndexList_180715_5"}]};
+//2018-07-16 00:59:52.585422
+var weeklyWatcherUSIndexListData ={"list": [{"label": "WEEKLY_USIndexList_180716_2", "list": [{"label": "<b>W [S3, M3, $493.57m, 0.2186]</b>", "code": "PM.US"}, {"label": "<b>W [S3, M24, $597.34m, 1.1168]</b>", "code": "CELG.US"}], "code": "WEEKLY_USIndexList_180716"}]};
