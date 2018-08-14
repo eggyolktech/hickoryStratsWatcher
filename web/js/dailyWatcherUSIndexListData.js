@@ -1,2 +1,2 @@
-//2018-08-14 00:58:40.109573
-var dailyWatcherUSIndexListData ={"list": [{"code": "DAILY_USIndexList_180814", "list": [{"code": "NXPI.US", "label": "<b>D [S1, M6, $540.00m, 0.0930]</b>"}, {"code": "NFLX.US", "label": "<b>D [S7, M1, $2646.70m, 0.0775]</b>"}, {"code": "FL.US", "label": "<b>D [S1, M1, $169.25m, 0.0178]</b>"}], "label": "DAILY_USIndexList_180814_3"}]};
+//2018-08-15 00:56:29.677171
+var dailyWatcherUSIndexListData ={"list": [{"label": "DAILY_USIndexList_180815_5", "list": [{"label": "<b>D [S2, M1, $166.87m, 0.0114]</b>", "code": "INCY.US"}, {"label": "<b>D [S2, M2, $169.11m, 0.1442]</b>", "code": "FL.US"}, {"label": "<b>D [S2, M8, $270.65m, 0.4145]</b>", "code": "MCK.US"}, {"label": "<b>D [S2, M2, $126.43m, 0.3155]</b>", "code": "NLSN.US"}, {"label": "<b>D [S5, M1, $209.15m, 0.0323]</b>", "code": "SYF.US"}], "code": "DAILY_USIndexList_180815"}]};
