@@ -1,2 +1,2 @@
-//2018-08-13 00:59:26.902251
-var weeklyWatcherUSIndexListData ={"list": [{"code": "WEEKLY_USIndexList_180813", "list": [{"code": "TRV.US", "label": "<b>W [S17, M3, $207.15m, 0.0030]</b>"}, {"code": "PYPL.US", "label": "<b>W [S3, M3, $457.02m, 0.4442]</b>"}, {"code": "GS.US", "label": "<b>W [S17, M3, $717.02m, 0.0078]</b>"}, {"code": "LNC.US", "label": "<b>W [S17, M3, $103.75m, 0.0038]</b>"}], "label": "WEEKLY_USIndexList_180813_4"}]};
+//2018-08-19 00:58:30.784733
+var weeklyWatcherUSIndexListData ={"list": [{"label": "WEEKLY_USIndexList_180819_5", "list": [{"label": "<b>W [S2, M2, $193.63m, 0.0724]</b>", "code": "CAH.US"}, {"label": "<b>W [S2, M2, $201.30m, 0.0278]</b>", "code": "YUM.US"}, {"label": "<b>W [S23, M2, $63.55m, 0.0014]</b>", "code": "PBCT.US"}, {"label": "<b>W [S2, M2, $100.60m, 0.1273]</b>", "code": "NCLH.US"}, {"label": "<b>W [S23, M2, $397.37m, 0.6127]</b>", "code": "LMT.US"}], "code": "WEEKLY_USIndexList_180819"}]};
