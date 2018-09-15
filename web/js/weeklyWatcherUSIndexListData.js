@@ -1,2 +1,2 @@
-//2018-09-09 00:57:39.309677
-var weeklyWatcherUSIndexListData ={"list": [{"code": "WEEKLY_USIndexList_180909", "list": [{"code": "MCD.US", "label": "<b>W [S2, M9, $658.39m, 0.3434]</b>"}, {"code": "GD.US", "label": "<b>W [S23, M2, $253.87m, 0.1129]</b>"}], "label": "WEEKLY_USIndexList_180909_2"}]};
+//2018-09-16 00:59:19.476155
+var weeklyWatcherUSIndexListData ={"list": [{"list": [{"label": "<b>W [S23, M2, $120.13m, 0.1045]</b>", "code": "NLSN.US"}], "label": "WEEKLY_USIndexList_180916_1", "code": "WEEKLY_USIndexList_180916"}]};
