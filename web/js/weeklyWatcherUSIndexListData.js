@@ -1,2 +1,2 @@
-//2018-10-08 00:59:12.945384
-var weeklyWatcherUSIndexListData ={"list": [{"list": [{"code": "STZ.US", "label": "<b>W [S24, M3, $307.43m, 0.5294]</b>"}], "code": "WEEKLY_USIndexList_181008", "label": "WEEKLY_USIndexList_181008_1"}]};
+//2018-10-28 00:50:52.301552
+var weeklyWatcherUSIndexListData ={"list": [{"label": "WEEKLY_USIndexList_181028_1", "list": [{"label": "<b>W [S2, M16, $285.83m, 0.5087]</b>", "code": "NTES.US"}], "code": "WEEKLY_USIndexList_181028"}]};
