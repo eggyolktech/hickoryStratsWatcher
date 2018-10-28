@@ -1,2 +1,2 @@
-//2018-10-28 00:50:52.301552
-var weeklyWatcherUSIndexListData ={"list": [{"label": "WEEKLY_USIndexList_181028_1", "list": [{"label": "<b>W [S2, M16, $285.83m, 0.5087]</b>", "code": "NTES.US"}], "code": "WEEKLY_USIndexList_181028"}]};
+//2018-10-29 00:51:33.792870
+var weeklyWatcherUSIndexListData ={"list": [{"label": "WEEKLY_USIndexList_181029_1", "list": [{"label": "<b>W [S3, M17, $285.83m, 0.5087]</b>", "code": "NTES.US"}], "code": "WEEKLY_USIndexList_181029"}]};
