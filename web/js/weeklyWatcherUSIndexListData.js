@@ -1,2 +1,2 @@
-//2018-11-26 00:57:27.940233
-var weeklyWatcherUSIndexListData ={"list": [{"list": [{"code": "DLTR.US", "label": "<b>W [S3, M24, $223.94m, 0.3195]</b>"}, {"code": "MLM.US", "label": "<b>W [S24, M3, $134.69m, 0.1900]</b>"}, {"code": "NXPI.US", "label": "<b>W [S24, M3, $459.49m, 0.1859]</b>"}], "code": "WEEKLY_USIndexList_181126", "label": "WEEKLY_USIndexList_181126_3"}]};
+//2019-01-06 00:58:55.199062
+var weeklyWatcherUSIndexListData ={"list": [{"code": "WEEKLY_USIndexList_190106", "list": [{"code": "DLPH.US", "label": "<b>W [S2, M2, $119.89m, 0.0657]</b>"}, {"code": "CELG.US", "label": "<b>W [S2, M2, $585.40m, 0.0597]</b>"}], "label": "WEEKLY_USIndexList_190106_2"}]};
