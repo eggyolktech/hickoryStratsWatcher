@@ -1,2 +1,2 @@
-//2019-01-06 00:58:55.199062
-var weeklyWatcherUSIndexListData ={"list": [{"code": "WEEKLY_USIndexList_190106", "list": [{"code": "DLPH.US", "label": "<b>W [S2, M2, $119.89m, 0.0657]</b>"}, {"code": "CELG.US", "label": "<b>W [S2, M2, $585.40m, 0.0597]</b>"}], "label": "WEEKLY_USIndexList_190106_2"}]};
+//2019-01-07 00:59:37.848511
+var weeklyWatcherUSIndexListData ={"list": [{"code": "WEEKLY_USIndexList_190107", "label": "WEEKLY_USIndexList_190107_2", "list": [{"code": "CELG.US", "label": "<b>W [S3, M3, $585.40m, 0.0597]</b>"}, {"code": "DLPH.US", "label": "<b>W [S3, M3, $119.89m, 0.0657]</b>"}]}]};
