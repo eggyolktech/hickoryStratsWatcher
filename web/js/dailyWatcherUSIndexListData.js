@@ -1,2 +1,2 @@
-//2019-01-24 00:58:35.626384
-var dailyWatcherUSIndexListData ={"list": [{"label": "DAILY_USIndexList_190124_1", "list": [{"label": "<b>D [S22, M1, $129.51m, 0.0005]</b>", "code": "VOD.US"}], "code": "DAILY_USIndexList_190124"}]};
+//2019-01-30 00:57:14.165826
+var dailyWatcherUSIndexListData ={"list": [{"code": "DAILY_USIndexList_190130", "list": [{"code": "M.US", "label": "<b>D [S1, M2, $294.04m, 0.1096]</b>"}], "label": "DAILY_USIndexList_190130_1"}]};
