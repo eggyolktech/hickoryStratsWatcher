@@ -1,2 +1,2 @@
-//2019-02-15 00:56:29.906542
-var dailyWatcherUSIndexListData ={"list": [{"code": "DAILY_USIndexList_190215", "label": "DAILY_USIndexList_190215_3", "list": [{"code": "ILMN.US", "label": "<b>D [S4, M3, $280.48m, 1.7919]</b>"}, {"code": "KR.US", "label": "<b>D [S2, M2, $256.84m, 0.1010]</b>"}, {"code": "ABBV.US", "label": "<b>D [S8, M3, $671.13m, 0.2262]</b>"}]}]};
+//2019-02-20 00:50:41.637592
+var dailyWatcherUSIndexListData ={"list": [{"list": [{"label": "<b>D [S5, M1, $102.03m, 0.0393]</b>", "code": "WRK.US"}, {"label": "<b>D [S5, M1, $154.64m, 0.0030]</b>", "code": "ETFC.US"}, {"label": "<b>D [S1, M1, $666.93m, 0.1690]</b>", "code": "MCD.US"}], "label": "DAILY_USIndexList_190220_3", "code": "DAILY_USIndexList_190220"}]};
