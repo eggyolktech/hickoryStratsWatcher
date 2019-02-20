@@ -1,2 +1,2 @@
-//2019-02-20 00:50:42.864493
-var dailyWatcherUSTrackListData ={"list": [{"list": [{"label": "AMZN.US", "code": "AMZN.US"}, {"label": "GOOG.US", "code": "GOOG.US"}, {"label": "FB.US", "code": "FB.US"}], "label": "DAILY_USTrackList_190220_3", "code": "DAILY_USTrackList_190220"}]};
+//2019-02-21 01:00:00.858988
+var dailyWatcherUSTrackListData ={"list": [{"label": "DAILY_USTrackList_190221_3", "code": "DAILY_USTrackList_190221", "list": [{"label": "AMZN.US", "code": "AMZN.US"}, {"label": "FB.US", "code": "FB.US"}, {"label": "GOOG.US", "code": "GOOG.US"}]}]};
