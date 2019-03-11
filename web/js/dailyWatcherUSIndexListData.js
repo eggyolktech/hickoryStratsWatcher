@@ -1,2 +1,2 @@
-//2019-03-09 06:35:11.280644
-var dailyWatcherUSIndexListData ={"list": [{"list": [{"code": "ADM.US", "label": "<b>D [S15, M12, $167.71m, 0.0039]</b>"}, {"code": "KSS.US", "label": "<b>D [S18, M10, $251.73m, 0.3243]</b>"}, {"code": "CHK.US", "label": "<b>D [S18, M17, $131.48m, 0.0144]</b>"}, {"code": "AGN.US", "label": "<b>D [S22, M11, $400.29m, 1.1043]</b>"}, {"code": "NTES.US", "label": "<b>D [S4, M3, $238.51m, 0.4283]</b>"}], "code": "DAILY_USIndexList_190309", "label": "DAILY_USIndexList_190309_5"}]};
+//2019-03-12 06:33:59.187367
+var dailyWatcherUSIndexListData ={"list": [{"code": "DAILY_USIndexList_190312", "list": [{"code": "ADM.US", "label": "<b>D [S18, M15, $167.60m, 0.0533]</b>"}, {"code": "KSS.US", "label": "<b>D [S21, M13, $251.25m, 0.3329]</b>"}, {"code": "NTES.US", "label": "<b>D [S7, M6, $236.59m, 0.9824]</b>"}, {"code": "KO.US", "label": "<b>D [S6, M1, $601.57m, 0.0701]</b>"}], "label": "DAILY_USIndexList_190312_4"}]};
