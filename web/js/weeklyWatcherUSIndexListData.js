@@ -1,2 +1,2 @@
-//2019-03-18 06:36:12.295577
-var weeklyWatcherUSIndexListData ={"list": [{"label": "WEEKLY_USIndexList_190318_3", "list": [{"label": "<b>W [S17, M17, $135.15m, 0.2322]</b>", "code": "CPB.US"}, {"label": "<b>W [S3, M24, $182.50m, 0.0784]</b>", "code": "LB.US"}, {"label": "<b>W [S17, M3, $391.34m, 0.0173]</b>", "code": "DAL.US"}], "code": "WEEKLY_USIndexList_190318"}]};
+//2019-03-25 06:35:14.238496
+var weeklyWatcherUSIndexListData ={"list": [{"code": "WEEKLY_USIndexList_190325", "label": "WEEKLY_USIndexList_190325_2", "list": [{"code": "SIG.US", "label": "<b>W [S24, M3, $116.12m, 0.0970]</b>"}, {"code": "DAL.US", "label": "<b>W [S24, M10, $389.23m, 0.0283]</b>"}]}]};
