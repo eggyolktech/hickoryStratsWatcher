@@ -1,2 +1,2 @@
-//2019-03-30 23:20:54.522292
-var weeklyWatcherHKEXListData ={"list": [{"list": [{"label": "<b>W [S1, M1, $2.65m, 5.7969]</b>", "code": "3115"}, {"label": "<b>W [S8, M15, $5.87m, 0.0068]</b>", "code": "0931"}, {"label": "<b>W [S15, M22, $4.57m, 0.0018]</b>", "code": "0273"}], "label": "WEEKLY_HKEXList_190330_3", "code": "WEEKLY_HKEXList_190330"}]};
+//2019-04-06 23:29:44.187862
+var weeklyWatcherHKEXListData ={"list": [{"label": "WEEKLY_HKEXList_190406_1", "list": [{"label": "<b>W [S15, M22, $8.23m, 0.0079]</b>", "code": "0931"}], "code": "WEEKLY_HKEXList_190406"}]};
