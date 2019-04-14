@@ -1,2 +1,2 @@
-//2019-04-08 06:32:35.791299
-var weeklyWatcherUSIndexListData ={"list": [{"list": [{"label": "<b>W [S3, M3, $255.81m, 0.0064]</b>", "code": "M.US"}, {"label": "<b>W [S10, M3, $167.45m, 0.0137]</b>", "code": "JWN.US"}, {"label": "<b>W [S10, M3, $85.22m, 0.2653]</b>", "code": "URBN.US"}], "label": "WEEKLY_USIndexList_190408_3", "code": "WEEKLY_USIndexList_190408"}]};
+//2019-04-15 06:32:34.440446
+var weeklyWatcherUSIndexListData ={"list": [{"code": "WEEKLY_USIndexList_190415", "list": [{"code": "JWN.US", "label": "<b>W [S17, M10, $166.38m, 0.0542]</b>"}, {"code": "M.US", "label": "<b>W [S10, M10, $255.46m, 0.0827]</b>"}, {"code": "HSIC.US", "label": "<b>W [S17, M3, $98.01m, 0.0544]</b>"}, {"code": "URBN.US", "label": "<b>W [S17, M10, $85.15m, 0.3668]</b>"}, {"code": "ABBV.US", "label": "<b>W [S3, M10, $592.92m, 0.2933]</b>"}, {"code": "GT.US", "label": "<b>W [S3, M10, $95.13m, 0.1167]</b>"}], "label": "WEEKLY_USIndexList_190415_6"}]};
