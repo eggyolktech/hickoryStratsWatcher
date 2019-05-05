@@ -1,2 +1,2 @@
-//2019-04-29 06:32:31.744262
-var weeklyWatcherUSIndexListData ={"list": [{"code": "WEEKLY_USIndexList_190429", "label": "WEEKLY_USIndexList_190429_5", "list": [{"code": "GT.US", "label": "<b>W [S17, M24, $95.10m, 0.2358]</b>"}, {"code": "ABBV.US", "label": "<b>W [S17, M24, $595.82m, 0.1786]</b>"}, {"code": "KO.US", "label": "<b>W [S10, M3, $589.89m, 0.0764]</b>"}, {"code": "IFF.US", "label": "<b>W [S10, M10, $84.26m, 0.6077]</b>"}, {"code": "ALK.US", "label": "<b>W [S3, M3, $114.57m, 0.0767]</b>"}]}]};
+//2019-05-06 06:32:34.371836
+var weeklyWatcherUSIndexListData ={"list": [{"list": [{"code": "IFF.US", "label": "<b>W [S17, M17, $85.12m, 0.9872]</b>"}, {"code": "KO.US", "label": "<b>W [S17, M10, $588.74m, 0.1737]</b>"}, {"code": "ALK.US", "label": "<b>W [S10, M10, $113.92m, 0.2977]</b>"}], "code": "WEEKLY_USIndexList_190506", "label": "WEEKLY_USIndexList_190506_3"}]};
