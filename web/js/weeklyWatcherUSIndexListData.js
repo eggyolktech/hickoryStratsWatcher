@@ -1,2 +1,2 @@
-//2019-06-03 06:32:35.934747
-var weeklyWatcherUSIndexListData ={"list": [{"list": [{"label": "<b>W [S17, M10, $175.89m, 0.3353]</b>", "code": "CNC.US"}], "label": "WEEKLY_USIndexList_190603_1", "code": "WEEKLY_USIndexList_190603"}]};
+//2019-06-10 06:32:39.074071
+var weeklyWatcherUSIndexListData ={"list": [{"code": "WEEKLY_USIndexList_190610", "label": "WEEKLY_USIndexList_190610_2", "list": [{"code": "CNC.US", "label": "<b>W [S24, M17, $176.62m, 0.2800]</b>"}, {"code": "CVS.US", "label": "<b>W [S3, M17, $595.55m, 0.2099]</b>"}]}]};
