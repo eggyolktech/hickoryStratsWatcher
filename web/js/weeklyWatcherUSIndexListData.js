@@ -1,2 +1,2 @@
-//2019-08-12 06:33:12.568543
-var weeklyWatcherUSIndexListData ={"list": [{"code": "WEEKLY_USIndexList_190812", "list": [{"code": "BK.US", "label": "<b>W [S24, M17, $263.04m, 0.2041]</b>"}, {"code": "NBL.US", "label": "<b>W [S3, M3, $146.26m, 0.0368]</b>"}, {"code": "STT.US", "label": "<b>W [S17, M24, $197.31m, 0.0693]</b>"}, {"code": "BMY.US", "label": "<b>W [S17, M10, $573.27m, 0.2442]</b>"}, {"code": "KR.US", "label": "<b>W [S3, M3, $293.31m, 0.0490]</b>"}], "label": "WEEKLY_USIndexList_190812_5"}]};
+//2019-08-19 06:33:32.244671
+var weeklyWatcherUSIndexListData ={"list": [{"label": "WEEKLY_USIndexList_190819_3", "code": "WEEKLY_USIndexList_190819", "list": [{"label": "<b>W [S10, M10, $146.33m, 0.0428]</b>", "code": "NBL.US"}, {"label": "<b>W [S10, M10, $292.63m, 0.1030]</b>", "code": "KR.US"}, {"label": "<b>W [S24, M17, $572.48m, 0.3203]</b>", "code": "BMY.US"}]}]};
