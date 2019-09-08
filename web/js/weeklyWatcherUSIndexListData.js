@@ -1,2 +1,2 @@
-//2019-09-02 06:33:11.902888
-var weeklyWatcherUSIndexListData ={"list": [{"code": "WEEKLY_USIndexList_190902", "label": "WEEKLY_USIndexList_190902_3", "list": [{"code": "URBN.US", "label": "<b>W [S10, M10, $84.35m, 0.2436]</b>"}, {"code": "BIDU.US", "label": "<b>W [S3, M3, $631.44m, 0.3051]</b>"}, {"code": "JWN.US", "label": "<b>W [S10, M3, $151.83m, 0.0743]</b>"}]}]};
+//2019-09-09 06:33:20.054271
+var weeklyWatcherUSIndexListData ={"list": [{"list": [{"label": "<b>W [S10, M10, $630.91m, 0.7405]</b>", "code": "BIDU.US"}, {"label": "<b>W [S3, M3, $60.59m, 0.0843]</b>", "code": "ENDP.US"}, {"label": "<b>W [S17, M17, $84.44m, 0.3840]</b>", "code": "URBN.US"}, {"label": "<b>W [S17, M10, $151.87m, 0.3446]</b>", "code": "JWN.US"}], "label": "WEEKLY_USIndexList_190909_4", "code": "WEEKLY_USIndexList_190909"}]};
