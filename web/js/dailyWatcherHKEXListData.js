@@ -1,2 +1,2 @@
-//2020-03-19 23:22:09.991424
-var dailyWatcherHKEXListData ={"list": [{"code": "DAILY_HKEXList_200319", "list": [{"code": "2399", "label": "<b>D [S6, M2, $3.76m, 0.0268]</b>"}, {"code": "7322", "label": "<b>D [S24, M1, $1.37m, 0.3044]</b>"}, {"code": "1082", "label": "<b>D [S21, M17, $1.31m, 0.0089]</b>"}, {"code": "1596", "label": "<b>D [S17, M2, $1.71m, 0.0117]</b>"}], "label": "DAILY_HKEXList_200319_4"}]};
+//2020-03-20 23:22:47.468756
+var dailyWatcherHKEXListData ={"list": [{"list": [{"code": "1817", "label": "<b>D [S0, M2, $3.80m, 0.0235]</b>"}, {"code": "1596", "label": "<b>D [S18, M3, $1.70m, 0.0160]</b>"}, {"code": "1082", "label": "<b>D [S22, M18, $1.33m, 0.0109]</b>"}, {"code": "0100", "label": "<b>D [S21, M10, $2.22m, 0.0064]</b>"}], "code": "DAILY_HKEXList_200320", "label": "DAILY_HKEXList_200320_4"}]};
