@@ -1,2 +1,2 @@
-//2020-04-04 23:24:55.367070
-var weeklyWatcherHKEXListData ={"list": [{"label": "WEEKLY_HKEXList_200404_1", "list": [{"label": "<b>W [S8, M8, $37.71m, 0.0326]</b>", "code": "0494"}], "code": "WEEKLY_HKEXList_200404"}]};
+//2020-04-11 23:39:32.415614
+var weeklyWatcherHKEXListData ={"list": [{"label": "WEEKLY_HKEXList_200411_1", "code": "WEEKLY_HKEXList_200411", "list": [{"label": "<b>W [S15, M15, $74.88m, 0.0365]</b>", "code": "0494"}]}]};
