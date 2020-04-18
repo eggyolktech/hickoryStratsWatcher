@@ -1,2 +1,2 @@
-//2020-04-11 23:39:32.415614
-var weeklyWatcherHKEXListData ={"list": [{"label": "WEEKLY_HKEXList_200411_1", "code": "WEEKLY_HKEXList_200411", "list": [{"label": "<b>W [S15, M15, $74.88m, 0.0365]</b>", "code": "0494"}]}]};
+//2020-04-18 23:23:36.602028
+var weeklyWatcherHKEXListData ={"list": [{"list": [{"label": "<b>W [S8, M1, $1.97m, 0.0077]</b>", "code": "1955"}, {"label": "<b>W [S15, M1, $2.59m, 0.0006]</b>", "code": "2296"}, {"label": "<b>W [S8, M1, $81.78m, 0.1018]</b>", "code": "0780"}, {"label": "<b>W [S1, M1, $2.06m, 0.0001]</b>", "code": "1721"}, {"label": "<b>W [S8, M1, $14.62m, 0.0024]</b>", "code": "1458"}, {"label": "<b>W [S1, M1, $5.19m, 0.0004]</b>", "code": "1812"}], "label": "WEEKLY_HKEXList_200418_6", "code": "WEEKLY_HKEXList_200418"}]};
